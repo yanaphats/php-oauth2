@@ -1,5 +1,5 @@
 {
-    "name": "sandbox-dev/oauth2",
+    "name": "sandbox-dev/php-oauth2",
     "description": "OAuth 2.0 Client Library",
     "type": "library",
     "license": "MIT",
