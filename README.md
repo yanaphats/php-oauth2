@@ -16,14 +16,17 @@ We support the following versions of PHP:
 * PHP 8.1
 * PHP 8.0
 
-## Usage
+## Installation
+Use the package manager [composer](https://getcomposer.org/doc/00-intro.md/) to install azure-ad-auth.
+```bash
+composer require sandbox-dev/oauth2
+```
 
+## Usage
 For usage and code examples, check out our [basic usage guide](https://oauth2-client.thephpleague.com/usage/).
 
 ## Contributing
-
 Please see [our contributing guidelines](https://github.com/thephpleague/oauth2-client/blob/master/CONTRIBUTING.md) for details.
 
 ## License
-
 The MIT License (MIT). Please see [LICENSE](https://github.com/thephpleague/oauth2-client/blob/master/LICENSE) for more information.
